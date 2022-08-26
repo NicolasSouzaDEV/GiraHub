@@ -1,0 +1,27 @@
+{
+  "name": "girabot",
+  "version": "1.0.0",
+  "description": "Gerencie as demandas de sua área",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n2g-team/gira-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Nicolas",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/n2g-team/gira-bot/issues"
+  },
+  "homepage": "https://github.com/n2g-team/gira-bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.12.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
